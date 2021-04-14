@@ -300,3 +300,26 @@ body{
 
     }
 }
+
+@media screen and (max-width:320px){
+    .secondary-img{
+        width:70%;
+    }
+
+    .main-text{
+        margin-top:50%;
+        justify-content: center;
+        letter-spacing: normal;
+
+    }
+
+    .button-wrapper{
+        margin:10%;
+    }
+
+    .footer-text{
+        font-size: 13px;
+    }
+
+
+}
